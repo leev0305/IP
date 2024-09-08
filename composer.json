@@ -1,0 +1,9 @@
+{
+    "name": "vese/ip",
+    "autoload": {
+        "psr-4": {
+            "Vese\\Ip\\": "app/"
+        }
+    },
+    "require": {}
+}
